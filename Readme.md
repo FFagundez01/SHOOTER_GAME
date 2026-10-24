@@ -6,7 +6,7 @@
 
 
 
-!\[Texto](./Gameplay.gif)
+!\[Texto](./gameplay.gif)
 
 
 

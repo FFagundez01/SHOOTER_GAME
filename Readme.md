@@ -2,7 +2,15 @@
 
 
 
-!\[Texto](gameplay.gif)
+
+
+
+
+!\[Texto](./Gameplay.gif)
+
+
+
+
 
 
 
